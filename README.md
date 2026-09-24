@@ -30,53 +30,73 @@ text
 
 ## Источники аудио
 
+## Источники аудио
+
 ### network
 - локальный файл: `audio/network-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-network.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: Dvortygirl
+- дата записи: 7 марта 2007
+- описание: Audio pronunciation of the term 'network' in United States English
+- источник: Self, recorded using the program Shtooka
+- лицензия: dual licensed — GFDL 1.2 или более поздняя / CC BY-SA 2.5, 2.0, 1.0
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### security
 - локальный файл: `audio/security-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-security.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: Dvortygirl
+- дата записи: 6 марта 2007
+- описание: Audio pronunciation of the term 'security' in United States English
+- источник: Self, recorded using the program Shtooka
+- лицензия: dual licensed — GFDL 1.2 или более поздняя / CC BY-SA 2.5, 2.0, 1.0
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### cloud
 - локальный файл: `audio/cloud-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-cloud.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: Dvortygirl
+- дата записи: 4 марта 2006
+- описание: English: Pronunciation of the term in US English
+- источник: Own work
+- лицензия: GFDL / CC BY-SA (см. страницу файла)
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### storage
 - локальный файл: `audio/storage-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-storage.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: BirdHopper
+- дата записи: 23 июля 2017
+- описание: English: Pronunciation of the term storage in US English, recorded by BirdHopper
+- источник: Own work
+- лицензия: см. страницу файла на Wikimedia Commons
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### machine
 - локальный файл: `audio/machine-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-machine.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: Dvortygirl
+- дата записи: 18 июня 2006
+- описание: English: Pronunciation of the term in US English
+- источник: Own work
+- лицензия: GFDL / CC BY-SA (см. страницу файла)
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### learning
 - локальный файл: `audio/learning-us.mp3`
 - вариант: US English
 - исходная страница: https://commons.wikimedia.org/wiki/File:En-us-learning.ogg
-- автор: Wikimedia Commons contributor
-- лицензия: CC BY-SA 3.0
-- изменения: MP3-транскодирование Wikimedia Commons
+- автор: Dvortygirl
+- дата записи: 18 июня 2006
+- описание: English: Pronunciation of the term in US English
+- источник: Own work
+- лицензия: GFDL / CC BY-SA (см. страницу файла)
+- изменения: MP3-транскодирование Wikimedia Commons, иных изменений нет
 
 ### network security
 - способ озвучивания: Web Speech API (TTS)
