@@ -30,8 +30,6 @@ text
 
 ## Источники аудио
 
-## Источники аудио
-
 ### cyber
 - локальный файл: `audio/cyber.mp3`
 - вариант: Australian English (en-AU)
