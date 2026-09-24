@@ -123,7 +123,7 @@ text
 ### machine learning
 - локальный файл: `audio/machine_learning.wav`
 - вариант: English (US)
-- исходная страница: https://en.wiktionary.org/wiki/File:LL-Q1860_(eng)-Vealhurl-machine_learning.wav
+- исходная страница: [https://en.wiktionary.org/wiki/File:LL-Q1860_(eng)-Vealhurl-machine_learning.wav](https://en.wiktionary.org/wiki/File:LL-Q1860_(eng)-Vealhurl-machine_learning.wav)
 - источник: Lingua Libre (проект Wikimedia France)
 - описание: Audio pronunciation file from the Lingua Libre project
 - транскрипция: machine learning
